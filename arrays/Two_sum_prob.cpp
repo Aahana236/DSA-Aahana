@@ -28,3 +28,5 @@ int main() {
     cout << "No two sum solution found.";
     return 0;
 }
+//this approach is better for both the varieties of these questions like the one we did for this par
+//this particular one one being yes/no other being a simple return the index type question
